@@ -89,8 +89,8 @@ h2:hover {
    color: green 
 }
 
-nav li:focus {
-    outline: 70px solid red
+nav a:focus {
+    outline: 20px solid red
 }
 
 nav li:last-child {
